@@ -43,9 +43,6 @@ The application uses BLoC/Cubit for state management with the following cubits:
 2. Run `flutter pub get` to install dependencies
 3. Run `flutter run` to start the application
 
-## Screenshots
-
-(Add screenshots here)
 
 ## License
 
